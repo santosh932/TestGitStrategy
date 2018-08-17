@@ -3,5 +3,4 @@ A content
 F1 changes and bug fixes
 F2 changes
 F2 bug fixes
-F1 changes
 F3 changes
